@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I’m Luke 👋
 
-<!--
-**lukebryson/lukebryson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a self-taught full-stack **software engineer** from the UK, currently completing a **Level 4 Software Engineering Apprenticeship** alongside my day job.
 
-Here are some ideas to get you started:
+In my role, I work across **IT systems support and operations**, where I design and improve internal processes, automate workflows, and support business systems. This includes hands-on work with the **Microsoft ecosystem**, building low-code and code-first solutions using Power Platform, scripting, APIs, and cloud services. I’m particularly interested in automation, system integration, and using AI tools (including Copilot) to reduce operational friction and improve data quality.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Skills & Technologies
+- **Languages:** TypeScript, JavaScript, Python, SQL, HTML/CSS
+- **Frontend:** React, Tailwind CSS
+- **Backend & APIs:** Node.js, REST APIs
+- **Cloud & DevOps:** Docker, Azure
+- **Automation & Low-Code:** Microsoft Power Platform (Power Automate, Power Apps), Copilot
+- **Other:** Git, CI/CD fundamentals, system integration, workflow optimisation
+
+### 📫 Contact
+- LinkedIn: https://linkedin.com/in/luke-bryson
+- Portfolio: https://your-portfolio-url
