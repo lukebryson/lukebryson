@@ -8,4 +8,3 @@ I’m a self-taught full-stack **software engineer** from the UK, currently comp
 
 ### 📫 Contact
 - **LinkedIn:** https://linkedin.com/in/luke-bryson
-- 🌐 **Portfolio:** coming soon...
