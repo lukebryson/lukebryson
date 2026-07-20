@@ -1,10 +1,10 @@
 ## Hi, I’m Luke 👋
 
-I’m a self-taught full-stack **software engineer** from the UK, currently completing a **Level 4 Software Engineering Apprenticeship** alongside my day job.
+I’m a self-taught **software engineer** from the UK, currently completing a **Level 4 Software Engineering Apprenticeship** alongside my day job, in which I work across SharePoint, the Power Platform and Microsoft's AI stack.
 
 ### 🧰 Skills
-- 🛠 **Languages:** TypeScript, JavaScript, Python, SQL, HTML/CSS
-- ⚙ **Other technologies:** React, Tailwind CSS, Node.js, REST APIs, n8n, Microsoft Power Platform (Power Automate, Power Apps), Copilot, Git
+- 🛠 **Languages:** TypeScript, React, Python, Tailwind CSS
+- ⚙ **Other technologies:** Power Apps, Power Automate, SPFx, DAX, Copilot Studio, Foundry
 
 ### 📫 Contact
 - **LinkedIn:** https://linkedin.com/in/luke-bryson
