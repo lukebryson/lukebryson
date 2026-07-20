@@ -4,7 +4,7 @@ I’m a self-taught **software engineer** from the UK, currently completing a **
 
 ### 🧰 Skills
 - 🛠 **Languages:** TypeScript, React, Python
-- ⚙ **Other technologies:** Power Apps, Power Automate, Power Fx, SPFx, DAX, Copilot Studio, Foundry, Tailwind, Azure DevOps, CI/CD, Git
+- ⚙ **Other technologies:** Power Apps, Power Automate, Power Fx, SPFx, DAX, Copilot Studio, Microsoft Foundry, Tailwind, Azure DevOps, CI/CD, Git
 
 ### 📫 Contact
 - **LinkedIn:** https://linkedin.com/in/luke-bryson
